@@ -16,6 +16,11 @@ body {
     background-color: #ffffff84;
     border-radius: 10px;
 }
+.navbar:hover
+{
+    background-color: #1d1d1d00;
+    transition: 0.4s;
+}
 
 .navbar ul {
     overflow: auto;
